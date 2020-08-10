@@ -24,6 +24,9 @@ $ Utilizando um framework, o desenvolvedor pode se concentrar em desenvolver as 
 
 API, da sigla Application Programming Interface ou Interface de Programação de Aplicações, é um produto de software criado para oferecer uma interface (caminho) com regras bem definidas para integração entre sistemas, a fim de obter informações e, assim, trabalhar com elas. Basicamente, as APIs permitem que o desenvolvedor possa utilizar funcionalidades de aplicações já existentes no desenvolvimento do seu projeto. Também facilita a comunicação, integração e a interoperação entre aplicações. A grande vantagem da API é que ela permite facilitar a utilização de bibliotecas externas no software. Cada programador pode desenvolver seu código da maneira que quiser. Porém, quando um padrão é convencionado, o desenvolvimento é simplificado, certo? Assim, é possível prever exatamente o que as funções irão fazer. Quando um software acessa o relógio do Windows ou quando uma aplicação mobile acessa o mapa do GoogleMaps, estão utilizando APIs.
 
+
+
+#Para saber mais, acesse:
  FONTE: https://www.portalgsti.com.br/2017/11/frameworks-e-bibliotecas.html, sobre Frameworks e bibliotecas. Acesso em 10 de agosto de 2020.
  FONTE: https://blog.cedrotech.com/api-bibliotecas-e-frameworks-entenda-diferenca-entre-eles/, sobre Frameworks e bibliotecas. Acesso em 10 de agosto de 2020.
  FONTE: https://becode.com.br/framework-biblioteca-api-entenda-as-diferencas/, sobre API's. Acesso em 10 de agosto de 2020.
