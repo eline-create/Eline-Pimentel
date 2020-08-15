@@ -2,7 +2,7 @@
 
 # Frameworks e Bibliotecas
 
-Existem muitos termos, para os desenvolvedores iniciantes, que são verdadeiros dialetos indecifráveis. Na verdade, eles podem ser decifrados. E, estes dialetos quando entendidos abrem a mente para que possamos desenvolver uma aplicação com sucesso. Mas, afinal,o que é uma framework e uma biblioteca? Tem diferença?
+Existem muitos termos, para os desenvolvedores iniciantes, que são verdadeiros dialetos indecifráveis. Na verdade, eles podem ser decifrados. E, estes dialetos quando entendidos abrem a mente para que possamos desenvolver uma aplicação com sucesso. Mas, afinal,o que é um framework e uma biblioteca? Tem diferença?
 
 ![Estante de biblioteca](./images/biblioteca.jpg)
 
@@ -22,9 +22,12 @@ Existem muitos termos, para os desenvolvedores iniciantes, que são verdadeiros 
 
 > *Mas, qual é a diferença entre eles?*
 
-Para entender a diferença, imagine o seguinte: Um prédio de apartamentos para moradia está sendo construído. Neste prédio, a estrutura principal de colunas e alicerces é um <Framework>. Já uma <Biblioteca> é um dos eletrodomésticos comprados para o apartamento construído. Percebeu a diferença? Enquanto o Framework é a estrutura principal, que para ser removido seria necessário praticamente começar do zero, a Biblioteca é como um acessório que tem utilidade, mas pode ser facilmente substituído e, essa mudança não impactará a estrutura principal.
+Para entender a diferença, imagine o seguinte: Um prédio de apartamentos para moradia está sendo construído. Neste prédio, a estrutura principal de colunas e alicerces é um Framework. Já uma Biblioteca é um dos eletrodomésticos comprados para o apartamento construído. Percebeu a diferença? Enquanto o Framework é a estrutura principal, que para ser removido seria necessário praticamente começar do zero, a Biblioteca é como um acessório que tem utilidade, mas pode ser facilmente substituído e, essa mudança não impactará a estrutura principal.
 
 - Apesar de distintos, esses conceitos se somam e são importantíssimos para a construção de softwares, websites, aplicativos e outras soluções em TI. Entendendo cada um e a diferença entre eles é possível ter mais autoridade e conhecimento na hora de contratar um fornecedor de TI.
+
+
+![Gif sabendo tudo](./images/saber.gif) 
 
 > **É bom saber!** 
 
