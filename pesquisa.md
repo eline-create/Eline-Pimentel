@@ -4,7 +4,7 @@
 
 Existem muitos termos, para os desenvolvedores iniciantes, que são verdadeiros dialetos indecifráveis. Na verdade, eles podem ser decifrados. E, estes dialetos quando entendidos abrem a mente para que possamos desenvolver uma aplicação com sucesso. Mas, afinal,o que é uma framework e uma biblioteca? Tem diferença?
 
-![Estante de biblioteca](.\images\biblioteca.jpg)
+![Estante de biblioteca](./images/biblioteca.jpg)
 
 
 > **Bibliotecas**
@@ -12,7 +12,7 @@ Existem muitos termos, para os desenvolvedores iniciantes, que são verdadeiros 
  São um conjunto de funções que visa facilitar a utilização de uma determinada linguagem. Ela é um conjunto de subprogramas ou funções, geralmente organizadas em classes, que podem ser usadas para a construção de um software ou aplicativo mobile. Como por exemplo, a Jquery é uma biblioteca feita com a base em JavaScript. Desenvolvedores disponibilizam bibliotecas que possuem muitas funções prontas. 
 
 
-![Estrutura de prédio](.\images\estrutura.jpg)  
+![Estrutura de prédio](./images/estrutura.jpg)  
 
 > **Frameworks**
 
